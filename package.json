@@ -1,0 +1,12 @@
+{
+  "name": "react-native-emoji-compat",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Sara Zeaiter <sara.ztr@gmail.com>",
+  "license": "ISC"
+}
